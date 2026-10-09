@@ -1,0 +1,131 @@
+skill,skill_family,postings_mentioning,share,required_mentions,required_share,n_postings,corpus_date,segment
+performance/scalability,performance,204,0.77,198,0.75,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+product sense/ownership,product/ownership,193,0.73,189,0.72,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+written communication,communication,189,0.72,175,0.66,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+collaboration,collaboration,187,0.71,180,0.68,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+rest api,api,173,0.66,159,0.60,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+system design/architecture,design,160,0.61,154,0.58,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+testing,quality,147,0.56,138,0.52,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+javascript,languages,131,0.50,116,0.44,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+startup/ambiguity,product/ownership,125,0.47,105,0.40,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+security,security,119,0.45,114,0.43,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+observability,operations,107,0.41,99,0.38,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+typescript,languages,107,0.41,97,0.37,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+e2e testing,quality,99,0.38,95,0.36,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+open source,other,98,0.37,80,0.30,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+debugging,operations,96,0.36,91,0.34,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+react,frontend,95,0.36,83,0.31,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+python,languages,90,0.34,82,0.31,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+microservices/distributed,distributed systems,84,0.32,69,0.26,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+postgresql,data,82,0.31,70,0.27,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+ci/cd,cloud/infra,79,0.30,59,0.22,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+aws,cloud/infra,78,0.30,56,0.21,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+docker,cloud/infra,78,0.30,60,0.23,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+node.js,backend,73,0.28,66,0.25,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+kubernetes,cloud/infra,70,0.27,51,0.19,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+llm api integration,ai product,69,0.26,61,0.23,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+code review,quality,69,0.26,69,0.26,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+ai-assisted development,ai-assisted engineering,58,0.22,52,0.20,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+ai agents,ai product,57,0.22,54,0.20,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+on-call/incidents,operations,56,0.21,51,0.19,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+english,communication,55,0.21,49,0.19,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+html/css,frontend,52,0.20,41,0.16,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+websockets/realtime,api,51,0.19,40,0.15,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+go,languages,49,0.19,40,0.15,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+gcp,cloud/infra,45,0.17,28,0.11,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+java,languages,43,0.16,39,0.15,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+mentoring,collaboration,40,0.15,38,0.14,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+mongodb,data,35,0.13,23,0.09,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+accessibility,frontend,35,0.13,32,0.12,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+sql (generic),data,32,0.12,27,0.10,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+rust,languages,32,0.12,28,0.11,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+serverless/edge,cloud/infra,30,0.11,26,0.10,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+next.js,frontend,30,0.11,24,0.09,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+react native/mobile,mobile,28,0.11,22,0.08,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+rag/vector search,ai product,28,0.11,26,0.10,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+azure,cloud/infra,27,0.10,19,0.07,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+terraform/iac,cloud/infra,26,0.10,22,0.08,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+redis,data,26,0.10,14,0.05,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+graphql,api,25,0.09,19,0.07,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+vue,frontend,22,0.08,15,0.06,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+queues/streaming,distributed systems,21,0.08,13,0.05,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+elasticsearch/search,data,21,0.08,14,0.05,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+data modeling/schema,data,19,0.07,14,0.05,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+ruby/rails,languages,19,0.07,15,0.06,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+angular,frontend,19,0.07,15,0.06,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+nestjs,backend,18,0.07,14,0.05,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+mysql,data,17,0.06,13,0.05,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+frontend state/data,frontend,17,0.06,10,0.04,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+evals,ai product,14,0.05,10,0.04,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+c#/.net,languages,13,0.05,11,0.04,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+grpc,api,13,0.05,11,0.04,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+express,backend,12,0.05,11,0.04,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+web performance,frontend,12,0.05,10,0.04,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+php,languages,9,0.03,8,0.03,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+orm,data,6,0.02,5,0.02,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+elixir,languages,4,0.02,1,0.00,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+svelte,frontend,2,0.01,1,0.00,264,2026-10-09,A_india_remote: remote SWE IC (non-staff) postings open to India-based candidates; ATS boards + Himalayas country=India; IT-services firms excluded
+product sense/ownership,product/ownership,133,0.88,130,0.86,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+collaboration,collaboration,118,0.78,110,0.73,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+performance/scalability,performance,110,0.73,103,0.68,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+typescript,languages,107,0.71,97,0.64,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+react,frontend,106,0.70,93,0.62,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+startup/ambiguity,product/ownership,105,0.70,85,0.56,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+written communication,communication,98,0.65,81,0.54,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+rest api,api,89,0.59,83,0.55,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+javascript,languages,75,0.50,69,0.46,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+testing,quality,74,0.49,69,0.46,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+observability,operations,74,0.49,66,0.44,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+system design/architecture,design,73,0.48,66,0.44,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+e2e testing,quality,71,0.47,69,0.46,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+security,security,69,0.46,64,0.42,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+ai agents,ai product,64,0.42,63,0.42,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+llm api integration,ai product,57,0.38,49,0.32,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+websockets/realtime,api,49,0.32,44,0.29,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+mentoring,collaboration,47,0.31,45,0.30,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+open source,other,47,0.31,39,0.26,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+node.js,backend,41,0.27,37,0.25,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+ai-assisted development,ai-assisted engineering,37,0.25,33,0.22,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+on-call/incidents,operations,35,0.23,33,0.22,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+html/css,frontend,35,0.23,30,0.20,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+python,languages,35,0.23,29,0.19,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+debugging,operations,35,0.23,30,0.20,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+code review,quality,30,0.20,28,0.19,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+go,languages,27,0.18,18,0.12,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+accessibility,frontend,27,0.18,23,0.15,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+postgresql,data,25,0.17,17,0.11,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+microservices/distributed,distributed systems,24,0.16,11,0.07,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+kubernetes,cloud/infra,23,0.15,6,0.04,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+aws,cloud/infra,20,0.13,10,0.07,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+ci/cd,cloud/infra,14,0.09,9,0.06,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+next.js,frontend,14,0.09,12,0.08,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+docker,cloud/infra,13,0.09,5,0.03,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+gcp,cloud/infra,12,0.08,7,0.05,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+web performance,frontend,12,0.08,9,0.06,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+evals,ai product,12,0.08,12,0.08,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+react native/mobile,mobile,11,0.07,7,0.05,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+serverless/edge,cloud/infra,10,0.07,9,0.06,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+data modeling/schema,data,10,0.07,8,0.05,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+ruby/rails,languages,10,0.07,9,0.06,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+redis,data,10,0.07,7,0.05,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+terraform/iac,cloud/infra,9,0.06,2,0.01,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+sql (generic),data,9,0.06,6,0.04,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+english,communication,9,0.06,8,0.05,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+graphql,api,9,0.06,6,0.04,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+rust,languages,8,0.05,5,0.03,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+java,languages,8,0.05,6,0.04,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+vue,frontend,8,0.05,6,0.04,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+frontend state/data,frontend,8,0.05,6,0.04,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+queues/streaming,distributed systems,7,0.05,5,0.03,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+azure,cloud/infra,7,0.05,3,0.02,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+rag/vector search,ai product,7,0.05,6,0.04,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+mysql,data,7,0.05,7,0.05,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+php,languages,5,0.03,4,0.03,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+angular,frontend,4,0.03,3,0.02,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+elasticsearch/search,data,3,0.02,3,0.02,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+mongodb,data,3,0.02,2,0.01,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+elixir,languages,3,0.02,1,0.01,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+orm,data,2,0.01,1,0.01,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+grpc,api,2,0.01,1,0.01,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+express,backend,1,0.01,1,0.01,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"
+c#/.net,languages,1,0.01,1,0.01,151,2026-10-09,"B_fullstack_all: full-stack/product/frontend IC (non-staff) postings on 170 ATS boards, any location"

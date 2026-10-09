@@ -1,0 +1,142 @@
+{
+ "gohighlevel": {
+  "ats": "lever",
+  "url": "https://api.lever.co/v0/postings/gohighlevel?mode=json",
+  "jobs": 91
+ },
+ "highlevel": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "hyperproof": {
+  "ats": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/hyperproof/jobs?content=true",
+  "jobs": 3
+ },
+ "hyperproofio": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "drivetrain": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "drivetrainai": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "dscout": {
+  "ats": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/dscout/jobs?content=true",
+  "jobs": 10
+ },
+ "automattic": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "automatticcareers": {
+  "ats": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/automatticcareers/jobs?content=true",
+  "jobs": 13
+ },
+ "tarteel": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "tarteelai": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "vidiq": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "gatherai": {
+  "ats": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/gatherai/jobs?content=true",
+  "jobs": 10
+ },
+ "gather-ai": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "vaero": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "mantahealth": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "manta": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "centralapp": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "crewfare": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "kick": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "kickfinance": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "tether": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "holepunch": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "medallion": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "federato": {
+  "ats": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/federato/jobs?content=true",
+  "jobs": 9
+ },
+ "fueled": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "diligencevault": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ },
+ "onehouse": {
+  "ats": null,
+  "url": null,
+  "jobs": 0
+ }
+}

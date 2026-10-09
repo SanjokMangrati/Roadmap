@@ -1,0 +1,13 @@
+# Research notes (sources and endpoints)
+
+- 2026-10-09: Probed 222 company tokens across Greenhouse, Ashby and Lever public endpoints; 103 responded. Token-to-endpoint map saved in raw/postings/_probe-2026-10-09.json. Some tokens may resolve to a different company with the same slug (for example "make", "crisp", "stream", "close", "orb", "socket"); verify the company name before citing.
+- 2026-10-09: Tokens that did not respond on any of the three ATS: deel, remotecom, automattic, doist, toggl, hotjar, prisma, cal/calcom, appsmith, hasura, postman, browserstack and others (full list in the probe file). These companies use another ATS or a custom careers page; fetch their careers pages directly if needed.
+- 2026-10-09: Known-brand boards rarely open full-stack roles to India. Of 1,419 engineering individual-contributor postings, about 59 list India or a global/worldwide location, and most of those are infrastructure, kernel or staff-level roles.
+- 2026-10-09: Himalayas public search API (https://himalayas.app/jobs/api/search) works without auth; supports country=India (includes worldwide-friendly jobs), seniority, employment_type, page; max 20 per page; returns 429 when rate limited; data refreshes every 24 hours. Terms: link back to Himalayas and credit it as the source.
+- 2026-10-09: Remotive public API returned only 17 jobs (delayed public feed); low value. Terms: link back and credit Remotive.
+- 2026-10-09: RemoteOK API returned 100 recent jobs across all categories, many non-engineering; terms: link back and credit Remote OK.
+- 2026-10-09: Wave-2 and wave-3 token probes added 73 boards (files raw/tokens-wave2.txt, raw/tokens-wave3.txt). Working tokens of note: gohighlevel (Lever), drivetrain (Lever), hyperproof, dscout, gatherai, automatticcareers (Greenhouse), infisical, plane, railway, livekit, supabase (Ashby). Tarteel AI uses Rippling (ats.rippling.com/tarteel); vidIQ uses careers.vidiq.com.
+- 2026-10-09: Himalayas "Worldwide" tags are unreliable for India: DualEntry (EU/LATAM only), refurbed and Slite (European timezones), vidIQ (8-city list) were tagged Worldwide. Always verify against first-party text and application questions.
+- 2026-10-09: hyperproof.io job pages return HTTP 403 to scripts; use the Greenhouse API (boards-api.greenhouse.io/v1/boards/hyperproof/jobs/<id>).
+- 2026-10-09: Glassdoor, AmbitionBox, Grapevine, Peerlist, Wellfound and NodeFlair blocked fetches (403); candidate reports were read via search snippets only.
+- 2026-10-09: `python -I` ignores PYTHONIOENCODING; call sys.stdout.reconfigure(encoding="utf-8") inside scripts on Windows. Strip \r when piping Python output into bash loops.
