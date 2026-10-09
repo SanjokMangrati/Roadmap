@@ -13,7 +13,7 @@ reverify_by: 2026-10-29, or before your first scheduled interview if that is ear
 - Competencies assessed by observation: 0 of 20. All depths are priors; confidence is low.
 - Competencies already at target, by prior: 3 of 20 (cloud and containers C11, security C12, product sense C17).
 - Largest gaps, by prior: explaining reasoning aloud C15 D0 to D2; asynchronous reliability C07 D0 to D2.
-- Gaps of one level, by prior: 17 of 21 gap rows. With nearly uniform gaps, the leverage ranking is driven by company reach and stage weight, not by your actual weak spots.
+- Gaps of one level, by prior: 19 of 21 gap rows. With nearly uniform gaps, the leverage ranking is driven by company reach and stage weight, not by your actual weak spots.
 - Pace factor: 1.0 (default; no hands-on items were timed). The plan is recalibrated after Day 3.
 - Stated weak areas (your own words): "Explaining thought process aloud during interviews"; "Explaining and defending architectural decisions."
 
